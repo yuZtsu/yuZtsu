@@ -1,4 +1,4 @@
-Myname : yuZtsu\
+Myname : yuZtsu
 
 Icon の file size が 大きい than 1MB だから伊吹瓢にしてます.
 
